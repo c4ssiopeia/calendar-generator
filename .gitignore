@@ -1,0 +1,8 @@
+thw*
+*.pyc
+__pychache__/
+*.csv
+*.ics
+.DS_Store
+.env
+venv/
