@@ -1,8 +1,8 @@
 # Calendar Generator
 A Python script that converts schedule data from csv to ics calendar file.
 
-**Author**: cassiopeia 
-Contact me by: mailto:cassio@cypeia.de
+**Author**: c4ssiopeia 
+Contact me by: mailto:feedback+github@cypeia.de
 
 ## Features
 - Converts CSV/Excel schedule data to ICS format
